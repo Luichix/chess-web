@@ -1,0 +1,33 @@
+.footer {
+  color: var(--color-secundary);
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 1em;
+  background: rgb(254, 212, 169, 0.8);
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 100%;
+}
+
+.credits {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.me {
+  text-decoration: none;
+  color: var(--color-secundary);
+}
+
+.me:hover {
+  color: var(--color-primary);
+}

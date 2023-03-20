@@ -1,0 +1,32 @@
+{
+  "en": {
+    "home": "Home",
+    "store": "Store",
+    "carrer": "Career",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "dashboard": "Dashboard",
+    "price": "Pricing",
+    "product": "Products",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "language": "Language"
+  },
+  "es": {
+    "home": "Inicio",
+    "store": "Tienda",
+    "carrer": "Carrera",
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "dashboard": "Panel de control",
+    "price": "Precios",
+    "product": "Productos",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+    "language": "Idioma"
+  }
+}

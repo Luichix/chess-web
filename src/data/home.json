@@ -1,0 +1,44 @@
+{
+  "es": {
+    "cheeseTitle": "Delicious",
+    "cheeseSubtitle": "Quench the Hunger",
+    "cheeseContent": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis provident nam dolores, rem error eius facilis harum vel quibusdam quo tempora ducimus non id voluptates, labore ut culpa vitae pariatur.",
+    "cheeseButton": "Quench Now",
+    "cheeseLovesTitle": "Para los Amantes de los Quesos",
+    "cheeseLovesContent": [
+      "El queso es uno de los mas grandes placeres que uno puede disfrutar, existe toda una variedad con texturas suaves, compactas, cremosas, duras y algunas que no podemos parar de comer. ",
+      "Por supuesto, nosotros te traemos a tu alcance algunas variedades de quesos deliciosos con los que puedes disfrutar día a día en tu hogar, si eres realmente un amante de los quesos este será tu lugar favorito. ",
+      "Te mostraremos un listado de nuestras variedades de quesos, sus características y posibles recetas para que puedas degustar de un delicioso queso en tus comidas."
+    ],
+    "mostPopularTitle": "Detalle de nuestros quesos más pedidos en 2022:",
+    "mostPopularContent": ["Queso Palmito", "Queso Asado"],
+    "catalogeTitle": "Catálogo de todos nuestros quesos disponibles y otros lácteos:",
+    "catalogeContent": "Como la base de nuestros productos es la leche, además de quesos también ofrecemos una variedad de productos lácteos, para que puedas probarlos.",
+    "catalogeList": [
+      "Queso Enmantado",
+      "Queso Ranchero",
+      "Queso Blanco",
+      "Queso Quesillo",
+      "Quesillo en Trenza",
+      "Cuajada en borona",
+      "Queso Cuajada"
+    ],
+    "recipesTitle": "Nuestras últimas Recetas con Quesos",
+    "recipesContent": "En nicaragua tenemos una variedad gastronómica y en ella no pueden faltar los quesos, agregamos algunas recetas con amor e historia.",
+    "recipesList": [
+      "Repochetas",
+      "Quesillos",
+      "Leche agria con tortillas",
+      "Gallo Pinto, maduro y queso frito"
+    ],
+    "favoriteTitle": "¿Cuál es tu queso favorito?",
+    "favoriteContent": "En nicaragua tenemos una variedad gastronómica y en ella no pueden faltar los quesos, agregamos algunas recetas con amor e historia.",
+    "tipsTitle": "Tips, trucos y más para los amantes del queso",
+    "tipsContent": "Te recomendamos la lectura de este articulo: Consejos para regalar queso a familiares y amigos en el extranjero.",
+    "tipsList": [
+      "Todos los quesos y categorías de quesos en nicaragua.",
+      "Descubre como se prepara el queso.",
+      "Como hacer que tu queso dure más tiempo."
+    ]
+  }
+}
